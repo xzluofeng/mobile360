@@ -1,0 +1,42 @@
+{
+  "name": "mobile360",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "alloyfinger": "^0.1.16",
+    "amfe-flexible": "^2.2.1",
+    "axios": "^0.18.0",
+    "echarts": "^4.2.0-rc.2",
+    "font-awesome": "^4.7.0",
+    "moment": "^2.22.2",
+    "qs": "^6.6.0",
+    "vant": "^1.5.1",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "weixin-js-sdk": "latest",
+    "dingtalk-jsapi": "latest"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.4",
+    "@vue/cli-plugin-eslint": "^3.0.4",
+    "@vue/cli-service": "^3.0.4",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-import": "^1.11.0",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0-0",
+    "fastclick": "^1.0.6",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "node-sass": "^4.10.0",
+    "postcss-pxtorem": "^4.0.1",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "vue-template-compiler": "^2.5.17",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
